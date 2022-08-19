@@ -1,0 +1,10 @@
+.projects-button{
+    margin-top: 1%;
+    display:flex;
+    flex-wrap: wrap;
+
+}
+.description{
+    font-size: 1.6rem;
+    padding:2%;
+}
